@@ -1,4 +1,4 @@
-## 👋 Hello there! I'm Arnav Pratap Singh
+## Hello there! I'm Arnav Pratap Singh
 
 🎓 Engineering student with a strong focus on **Machine Learning Engineering**  
 🤖 Building and deploying ML systems while also developing **full-stack web applications**  
